@@ -1,6 +1,4 @@
 ## Introduction
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 Hello! I am an innately curious data nerd who truly loves working on perplexing problems, often treating them as puzzles for the self to solve and learn from.
 
@@ -8,7 +6,7 @@ I have over ~4 years of experience in data science, with demonstrated capabiliti
 
 Currently, I am pursuing a Master of Management Analytics at Rotman School of Management, University of Toronto, which is enabling me to augment both technical prowess and business acumen, helping me bridge the gap between the two more effectively to build purposeful data-driven solutions.
 
-Except for when I am engrossed in "data-nerding", I could be found fancy cooking, photographing, or occasionally, sketching or painting.\
+Except for when I am engrossed in "data-nerding", I could be found fancy cooking, photographing, or occasionally, sketching or painting.
 
 ## Let's connect!
 [![](https://img.shields.io/badge/LinkedIn-vdivyansh-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vdivyansh/)
