@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/32619706/163113086-096136e0-b9ba-4401-b471-162ba8594410.png)
-
-
 ## Introduction
 
 Hello! I am an innately curious data nerd who truly loves working on perplexing problems, often treating them as puzzles for the self to solve and learn from.
