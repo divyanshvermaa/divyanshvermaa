@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/32619706/163113086-096136e0-b9ba-4401-b471-162ba8594410.png)
+
+
 ## Introduction
 
 Hello! I am an innately curious data nerd who truly loves working on perplexing problems, often treating them as puzzles for the self to solve and learn from.
@@ -11,3 +14,4 @@ Except for when I am engrossed in "data-nerding", I could be found fancy cooking
 ## Let's connect!
 [![](https://img.shields.io/badge/LinkedIn-vdivyansh-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vdivyansh/)
 [![](https://img.shields.io/badge/Gmail-divyansh.app-red?style=for-the-badge&logo=gmail)](mailto:divyansh.app@gmail.com)
+<!-- [![](https://img.shields.io/badge/Instagram-itsdivyansh-maroon?style=for-the-badge&logo=instagram)](https://www.instagram.com/itsdivyansh/)
