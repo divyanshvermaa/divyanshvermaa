@@ -4,7 +4,7 @@ Hello! I am an innately curious data nerd who truly loves working on perplexing 
 
 I have over ~4 years of experience in data science, with demonstrated capabilities across end-to-end stages of a solution: from data warehousing, wrangling, ETL designing to predictive modeling, developing advanced interactive and automated self-service dashboards, and communicating actionable insights.
 
-Currently, I am pursuing a Master of Management Analytics at Rotman School of Management, University of Toronto, which is enabling me to augment both technical prowess and business acumen, helping me bridge the gap between the two more effectively to build purposeful data-driven solutions.
+Currently, I am pursuing Master of Management Analytics at Rotman School of Management, University of Toronto, which is enabling me to augment both technical prowess and business acumen, helping me bridge the gap between the two more effectively to build purposeful data-driven solutions.
 
 Except for when I am engrossed in "data-nerding", I could be found fancy cooking, photographing, or occasionally, sketching or painting.
 
