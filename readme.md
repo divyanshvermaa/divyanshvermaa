@@ -8,14 +8,6 @@ Having a keen ability to translate complex data insights into strategic action, 
 Divyansh’s expertise lies in enabling organizations to optimize operational efficiencies, uncover growth opportunities, and amplify profitability by aligning cutting-edge technical capabilities with strategic business goals. He thrives in environments that require strategic insight, agility, and a focus on measurable outcomes, enabling teams to tackle complex challenges and achieve lasting improvements.
 
 Outside of work, Divyansh is passionate about traveling, reading books, solving puzzles and riddles, and unleashing his creative side through photography, playing the guitar, and occasionally indulging in sketching and painting.
- 
-•••
-
-Programming: Python, SQL, R, SAS, Java, Scala
-Databases: IBM Db2, Apache Hive, Teradata, MySQL, PostgreSQL, Microsoft SQL Server, Snowflake 
-Libraries: NumPy, pandas, PySpark, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, SciPy, statsmodels, NLTK, PuLP, Beautiful Soup, Requests, XGBoost, LightGBM, Plotly
-Tools/Platforms: Dataiku, Tableau, Power BI, Microsoft Azure, Databricks, Snowflake, KNIME, SAS Viya
-
 
 ## Let's connect!
 [![](https://img.shields.io/badge/LinkedIn-vdivyansh-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vdivyansh/)
